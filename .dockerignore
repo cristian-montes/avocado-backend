@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.pth
+!rf-detr-small.pth
+.git/
+.gitignore
+.vscode/
+.DS_Store
